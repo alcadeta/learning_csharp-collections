@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DictionaryExamples
+namespace Dictionaries
 {
     /// <summary>
     /// Dictionaries map keys to values. Keys must be unique.

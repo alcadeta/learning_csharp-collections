@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ListExample
+namespace Lists
 {
     static class Program
     {

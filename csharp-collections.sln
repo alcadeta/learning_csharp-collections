@@ -1,10 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExample", "ListExample\ListExample.csproj", "{1933AFBF-6953-4942-9207-C395558CCEA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{1933AFBF-6953-4942-9207-C395558CCEA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListExample", "LinkedListExample\LinkedListExample.csproj", "{7D6CCC51-2C0A-4A8C-82DB-277A73F9AAFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{7D6CCC51-2C0A-4A8C-82DB-277A73F9AAFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExamples", "DictionaryExamples\DictionaryExamples.csproj", "{2E0E2D37-453A-48D9-AA89-1376D4DC53D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{2E0E2D37-453A-48D9-AA89-1376D4DC53D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{23EB8590-0C92-4741-A131-CDB2A51684FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +26,9 @@ Global
 		{2E0E2D37-453A-48D9-AA89-1376D4DC53D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E0E2D37-453A-48D9-AA89-1376D4DC53D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E0E2D37-453A-48D9-AA89-1376D4DC53D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EB8590-0C92-4741-A131-CDB2A51684FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EB8590-0C92-4741-A131-CDB2A51684FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EB8590-0C92-4741-A131-CDB2A51684FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EB8590-0C92-4741-A131-CDB2A51684FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -4,7 +4,7 @@ using System;
 using System.Collections;
 using System.Linq;
 
-namespace LinkedListExample
+namespace LinkedLists
 {
     class Program
     {
