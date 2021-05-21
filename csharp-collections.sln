@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionarie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{23EB8590-0C92-4741-A131-CDB2A51684FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{23EB8590-0C92-4741-A131-CDB2A51684FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23EB8590-0C92-4741-A131-CDB2A51684FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23EB8590-0C92-4741-A131-CDB2A51684FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

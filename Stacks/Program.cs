@@ -20,7 +20,10 @@ namespace Stacks {
             myStack.Push("four");
             myStack.Push("five");
 
-            Print(myStack);
+            // Iterate over a stack
+            foreach (var str in myStack)
+                Console.WriteLine(str);
+            Console.WriteLine();
 
             // Determine how many elements are in a stack.
             Console.WriteLine($"Count: {myStack.Count}\n");
@@ -39,13 +42,6 @@ namespace Stacks {
             // Determine whether a given stack contains a certain value.
             Console.WriteLine($"Item Found: {myStack.Contains("five")}");
             Console.WriteLine($"Item Found: {myStack.Contains("four")}\n");
-        }
-
-        static void Print(Stack<string> stack)
-        {
-            foreach (var item in stack)
-                Console.WriteLine(item);
-            Console.WriteLine();
         }
     }
 }
