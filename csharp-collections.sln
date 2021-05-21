@@ -1,14 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{1933AFBF-6953-4942-9207-C395558CCEA8}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists", "Lists\Lists.csproj", "{1933AFBF-6953-4942-9207-C395558CCEA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{7D6CCC51-2C0A-4A8C-82DB-277A73F9AAFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{7D6CCC51-2C0A-4A8C-82DB-277A73F9AAFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{2E0E2D37-453A-48D9-AA89-1376D4DC53D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{2E0E2D37-453A-48D9-AA89-1376D4DC53D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{23EB8590-0C92-4741-A131-CDB2A51684FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks", "Stacks\Stacks.csproj", "{23EB8590-0C92-4741-A131-CDB2A51684FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queues", "Queues\Queues.csproj", "{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridDictionaries", "HybridDictionaries\HybridDictionaries.csproj", "{60946BA5-DD53-4E66-B4D1-4FD200C2521A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +41,15 @@ Global
 		{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DBD04C6-F2AD-40C2-804C-B5D89CE575E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60946BA5-DD53-4E66-B4D1-4FD200C2521A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60946BA5-DD53-4E66-B4D1-4FD200C2521A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60946BA5-DD53-4E66-B4D1-4FD200C2521A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60946BA5-DD53-4E66-B4D1-4FD200C2521A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFF84AA-777E-4047-96C3-3AEE093AF793}
 	EndGlobalSection
 EndGlobal
