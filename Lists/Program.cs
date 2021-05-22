@@ -3,6 +3,11 @@ using System.Collections.Generic;
 
 namespace Lists
 {
+    /// <summary>
+    /// List represents a strongly typed list of objects that can be accessed by
+    /// index. It provides methods to search, sort, and manipulate lists.
+    /// </summary>
+
     static class Program
     {
         private static void Main(string[] args)

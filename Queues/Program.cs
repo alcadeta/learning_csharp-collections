@@ -3,6 +3,13 @@ using System.Collections.Generic;
 
 namespace Queues
 {
+    /// <summary>
+    /// Queues are similar to Stacks, in that the elements are processed in a
+    /// particular order. But the main difference is that instead of being
+    /// "last-in, first-out", the queue processes elements in a "first-in,
+    /// first-out" order.
+    /// </summary>
+
     class Program
     {
         static void Main(string[] args)

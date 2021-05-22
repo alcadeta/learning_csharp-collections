@@ -6,6 +6,10 @@ using System.Linq;
 
 namespace LinkedLists
 {
+    /// <summary>
+    /// LinkedList represents a doubly linked list.
+    /// </summary>
+
     class Program
     {
         static void Main(string[] args)
