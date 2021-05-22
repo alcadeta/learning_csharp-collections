@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridDictionaries", "Hybri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedDictionaries", "OrderedDictionaries\OrderedDictionaries.csproj", "{33515CA8-44C7-48C9-88DB-DA948639C8BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCollections", "StringCollections\StringCollections.csproj", "{4B503DCF-47F2-48C1-8C75-98891860ED3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{33515CA8-44C7-48C9-88DB-DA948639C8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33515CA8-44C7-48C9-88DB-DA948639C8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33515CA8-44C7-48C9-88DB-DA948639C8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B503DCF-47F2-48C1-8C75-98891860ED3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B503DCF-47F2-48C1-8C75-98891860ED3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B503DCF-47F2-48C1-8C75-98891860ED3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B503DCF-47F2-48C1-8C75-98891860ED3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
